@@ -1,0 +1,1 @@
+--apcs=interwork --cpu Cortex-M4.fp --li --pd "__MICROLIB SETA 1" -g -I.\.cmsis\dsp_lib -I.\.cmsis\include -I.\RTE\Device\STM32F407VE -I.\RTE\Device\STM32F407ZE -I.\RTE\_demo -I.\.eide\deps -o .\build\demo\RTE\Device\STM32F407ZE\startup_stm32f40_41xxx.o --depend .\build\demo\RTE\Device\STM32F407ZE\startup_stm32f40_41xxx.d .\RTE\Device\STM32F407ZE\startup_stm32f40_41xxx.s
