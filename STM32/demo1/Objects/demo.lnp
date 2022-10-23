@@ -2,6 +2,7 @@
 ".\objects\main.o"
 ".\objects\delay.o"
 ".\objects\adc.o"
+".\objects\ph.o"
 ".\objects\misc.o"
 ".\objects\stm32f4xx_adc.o"
 ".\objects\stm32f4xx_exti.o"

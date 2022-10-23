@@ -21,4 +21,5 @@
 .\objects\main.o: sys.h
 .\objects\main.o: delay.h
 .\objects\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: Ph.h
 .\objects\main.o: adc.h
